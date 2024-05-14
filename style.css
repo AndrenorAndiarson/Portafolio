@@ -7,7 +7,7 @@ background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
-color: #fff;
+color: rgb(0, 0, 0);
 }
 section{
     min-height: 97vh;
@@ -77,8 +77,13 @@ padding: 20px 30px 0 30px;
 .middle .rigth{
     margin: 20px 0px 10px 50px;
 }
+.colortext{
+    color: black;
+}
 ul li{
     list-style-type: circle;
+    color: black;
+
 }
 .social-icon{
     display: flex;
